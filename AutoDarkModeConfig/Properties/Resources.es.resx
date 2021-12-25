@@ -181,7 +181,7 @@
     <value>Usar el servicio de localización</value>
   </data>
   <data name="msgChangesSaved" xml:space="preserve">
-    <value>¡los cambios fueron guardados!</value>
+    <value>¡Los cambios fueron guardados!</value>
   </data>
   <data name="msgClickApply" xml:space="preserve">
     <value>Haz clic en aplicar para guardar los cambios</value>
@@ -190,7 +190,7 @@
     <value>Descargar actualización</value>
   </data>
   <data name="msgErrorOcc" xml:space="preserve">
-    <value>ha ocurrido un error :(</value>
+    <value>Ha ocurrido un error:(</value>
   </data>
   <data name="msgLocPerm" xml:space="preserve">
     <value>Esta aplicación necesita permiso de localización</value>
@@ -202,13 +202,13 @@
     <value>Buscando tu localización...</value>
   </data>
   <data name="msgSearchUpd" xml:space="preserve">
-    <value>buscando actualizaciones...</value>
+    <value>Buscando actualizaciones...</value>
   </data>
   <data name="msgThemeError" xml:space="preserve">
-    <value>Warning: We couldn't read your current theme.</value>
+    <value>Advertencia: No hemos podido leer su tema actual.</value>
   </data>
   <data name="msgUpdateAvail" xml:space="preserve">
-    <value>¡una nueva actualización está disponible!</value>
+    <value>¡Una nueva actualización está disponible!</value>
   </data>
   <data name="msgUpdaterText" xml:space="preserve">
     <value>¡Gracias por usar Auto Dark Mode!
@@ -225,7 +225,7 @@ Versión instalada actualmente: {0}, nueva versión: {1}</value>
     <value>Comprobar actualizaciones</value>
   </data>
   <data name="updateInfoText" xml:space="preserve">
-    <value>buscamos actualizaciones cada vez que se inicia el programa.</value>
+    <value>Buscamos actualizaciones cada vez que se inicia el programa.</value>
   </data>
   <data name="userFeedback" xml:space="preserve">
     <value>Bienvenido</value>
@@ -234,7 +234,7 @@ Versión instalada actualmente: {0}, nueva versión: {1}</value>
     <value>Haz clic en la casilla para activar el cambio de tema automático</value>
   </data>
   <data name="lblTranslator" xml:space="preserve">
-    <value>Traductor: Daniel Sevillano</value>
+    <value>Traductor: Sebastian Espinosa</value>
   </data>
   <data name="lblCity" xml:space="preserve">
     <value>Ciudad</value>
@@ -285,7 +285,7 @@ Versión instalada actualmente: {0}, nueva versión: {1}</value>
     <value>Configurar el fondo de escritorio</value>
   </data>
   <data name="dbUseCurrent" xml:space="preserve">
-    <value>usa el fondo actual</value>
+    <value>Usar el fondo actual</value>
   </data>
   <data name="disabled" xml:space="preserve">
     <value>Desactivado</value>
@@ -303,10 +303,10 @@ Versión instalada actualmente: {0}, nueva versión: {1}</value>
     <value>Tal vez tu imagen está corrupta o la ruta no existe.</value>
   </data>
   <data name="dbPreviewError" xml:space="preserve">
-    <value>No pudimos generar una previsualización de la imagen, ¡lo sentimos!</value>
+    <value>No pudimos generar una previsualización de la imagen, ¡Lo sentimos!</value>
   </data>
   <data name="dbSavedError" xml:space="preserve">
-    <value>No pudimos guardar tus ajustes, ¡lo sentimos!</value>
+    <value>No pudimos guardar tus ajustes, ¡Lo sentimos!</value>
   </data>
   <data name="errorOcurredTitle" xml:space="preserve">
     <value>Ha ocurrido un error</value>
@@ -338,7 +338,7 @@ Si te topas con errores: por favor, aumenta la demora del cambio en los ajustes.
 
 Aquí hay algunas cosas que puedes probar:
 - Desinstalar y luego reinstalar Auto Dark Mode.
-- Try to disable {0} in the Auto Dark Mode settings.
+- Intenta desactivar {0} en la configuración de Auto Dark Mode.
 - Si activaste el fondo de escritorio, desactiva la característica y prueba otra vez.
 
 Si estas medidas no te ayudaron, puedes comentar el problema en GitHub adjuntando una captura de pantalla de tu error. Puedes acceder al problema pulsando el botón "Sí".</value>
@@ -363,7 +363,7 @@ Activar esta opción asegura que Auto Dark Mode cambie inmediatamente el tema tr
 Esta aplicación hace tu día a día más agradable, ayudándote a cuidar tus ojos. Al mismo tiempo es completamente gratuita, no tiene anuncios, no recopila información de los usuarios y es de código abierto.
 No obtengo ningún beneficio económico con este proyecto.
 
-Por este motivo puedes apoyarme con una donación voluntaria. Incluso una pequeña cantidad me hace  saltar de felicidad por mi apartamento. Tan solo dona tanto como valores mi trabajo.</value>
+Por este motivo puedes apoyarme con una donación voluntaria. Incluso una pequeña cantidad me hace saltar de felicidad por mi apartamento. Tan solo dona tanto como valores mi trabajo.</value>
   </data>
   <data name="donationTitle" xml:space="preserve">
     <value>¿Te gusta Auto Dark Mode?</value>
@@ -417,7 +417,7 @@ Auto Dark Mode se reiniciará después de eso y tendrás que volver a aplicar to
 Por cierto, ¡NUNCA ejecutes Auto Dark Mode como administrador por favor!</value>
   </data>
   <data name="locationCityNotFound" xml:space="preserve">
-    <value>no encontrada</value>
+    <value>No encontrada</value>
   </data>
   <data name="NavbarAbout" xml:space="preserve">
     <value>Acerca de</value>
@@ -498,7 +498,7 @@ Por cierto, ¡NUNCA ejecutes Auto Dark Mode como administrador por favor!</value
     <value>Paso</value>
   </data>
   <data name="ThemeTutorialStep1" xml:space="preserve">
-    <value>Haz click aquí para abrir los ajustes de temas de Windows.</value>
+    <value>Haz clic aquí para abrir los ajustes de temas de Windows.</value>
   </data>
   <data name="ThemeTutorialStep2" xml:space="preserve">
     <value>Ahora selecciona claro como color de Windows para el tema claro. Selecciona tu fondo de pantalla, cursor de ratón y color de acento favoritos.</value>
@@ -528,11 +528,11 @@ Puedes establecerlas individualmente en tu tema de Windows.</value>
 Auto Dark Mode X ha sido completamente reescrita desde cero. Ahora cuenta con una tarea en segundo plano, en lugar de depender del Administrador de tareas de Windows. ¡Esto significa una experiencia de cambio de tema de mayor confianza y más felixible!
 
 Sí, esto consume más recursos en segundo plano, pero a cambio te ofrecemos más opciones para mejorar tu productividad. Por ejemplo:
-- Modo juego: se desactiva el cambio de tema mientras estás jugando a un juego tu GPU está ocupada.
-- Cambiar de tema con atajos del teclado
+- Modo juego: se desactiva el cambio de tema mientras estás jugando a un juego o tu GPU está ocupada.
+- Cambiar de tema con atajos del teclado.
 ¡Y más!
 
-Esta actualización es adecuada para todos, excepto para los que tengan un dispositivo ARM. Estos tendrán problemas con la duración de la batería, porque el proceso en segundo plano tiene que ser emulado (¡solo en este caso!).</value>
+Esta actualización es adecuada para todos, excepto para los que tengan un dispositivo ARM. Estos tendrán problemas con la duración de la batería, porque el proceso en segundo plano tiene que ser emulado (¡Solo en este caso!).</value>
   </data>
   <data name="VersionXUpdaterHeader" xml:space="preserve">
     <value>Auto Dark Mode X está disponible</value>
